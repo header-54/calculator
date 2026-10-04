@@ -8,7 +8,7 @@ The interface is focused on simplicity, readability, and a premium glassmorphism
 
 ## ✨ Preview
 
-> Add your screenshot to the project folder as `screenshot.png`.
+
 
 ![HEADER54 Calculator](./calculator.png)
 
